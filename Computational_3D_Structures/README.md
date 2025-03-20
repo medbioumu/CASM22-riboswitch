@@ -1,1 +1,1 @@
-Predicted 3D structure of the p53-WT and the CASM22 mRNAs by using RNAComposer 
+Predicted 3D structure of the p53-WT mRNA and the CASM22 mRNA by using RNAComposer 
